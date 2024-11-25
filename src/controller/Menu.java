@@ -6,6 +6,12 @@ public class Menu {
 
 	static Scanner scan = new Scanner(System.in);
 	
+	OperacoesCliente oc = new OperacoesCliente();
+	OperacoesVeiculo ov = new OperacoesVeiculo();
+	OperacoesVenda ovd = new OperacoesVenda();
+	OperacoesVendedor ovr = new OperacoesVendedor();
+	
+	
 	public static void exibirMenuPrincipal() {
 
 		boolean loop = true;

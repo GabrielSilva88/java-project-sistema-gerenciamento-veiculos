@@ -8,12 +8,7 @@ public class MainPrincipal {
 		Menu m = new Menu();
 		
 		m.exibirMenuPrincipal();
-		
-		//m.exibirMenuFrenteLoja();
-		
-		//m.exibirMenuManutencaoCadastro();
-		
-		//mp.exibirMenuPrincipal();
+	
 		
 		
 	}
